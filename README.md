@@ -22,5 +22,5 @@ Serial Number: 0001-000704-007608-UCR-CoU-IN-219-01012022-31122022
 Vintage Year: 2022
 
 CoU's Issued to Seller: 6,905
-
+______________________________
 TOTAL Serialized CoU's for this project: 7608
